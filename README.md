@@ -25,7 +25,7 @@ GPA: 3.92
 - Integrated CUDA to optimize performance and streamline communication between applications and hardware.
 
 ## 💻 Projects
-### [Gender Define](https://github.com/Lamdtom/GenderDefiner)
+### [Male Female Classification](https://github.com/Lamdtom/Male-Female-Classification)
 - Developed a ResNet model for image classification using over 15,000 images with Pytorch and OpenCV.
 - Enhanced data validation processes to improve training accuracy.
 - Analyzed model results to determine the best classifier for the dataset.
