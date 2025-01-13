@@ -42,9 +42,12 @@ development of problem-solving skills.
 
 ## 💻 Projects
 ### [Gender Classification](https://github.com/Lamdtom/Gender-Classification)
-- Developed a ResNet model for image classification using over 15,000 images with Pytorch and OpenCV.
-- Enhanced data validation processes to improve training accuracy.
-- Analyzed model results to determine the best classifier for the dataset.
+- Developed and optimized a ResNet model for image classification using over 15,000 diverse images, achieving an 
+accuracy rate of 92% and significantly enhancing the project's predictive capabilities.
+- Supported new students in implementing advanced programming tools and techniques, fostering a solid 
+foundation in practical and theoretical aspects of computer science. 
+- Evaluated assignments and delivered constructive feedback to promote learning, improvement, and the 
+development of problem-solving skills.
 
 ### [Blueboard](https://github.com/jenphan/CS-375)
 - Collaborated on an online learning platform for students and professors, enhancing course management and interaction.
