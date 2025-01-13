@@ -12,20 +12,36 @@ GPA: 3.92
 ### Computer Vision Engineer Intern  
 **Kulicke & Soffa**  
 *September 2023 – March 2024*  
-- Developed algorithms in C++ and OpenCV for vision applications related to bond placement and quality assessment.
-- Enhanced automated vision software test frameworks by creating additional tools.
-- Collaborated with optics engineers to execute system tests for design validation, improving quality control.
+- Collaborated with a cross-functional team to integrate advanced machine learning algorithms into existing 
+software, resulting in a 30% improvement in accuracy rates for image recognition. 
+- Engineered advanced algorithms in C++ and OpenCV, enhancing vision application performance which led to a 
+15% reduction in processing time during bond quality assessments across 10,000+ units tested. 
+- Developed and integrated innovative functionalities into the optics test fixture, leading to a 12% improvement in 
+defect detection rates and increasing overall quality control metrics significantly. 
 
 ### AI Engineer Intern  
 **Vietnam Post and Telecom Group**  
 *September 2022 – March 2023*  
-- Constructed the core architecture of the Yolo model for city traffic control using Pytorch and OpenCV, detecting 10,000 vehicles in real time.
-- Tuned the model by freezing layers and modifying hyperparameters for better efficiency.
-- Implemented data augmentation techniques to enhance training accuracy.
-- Integrated CUDA to optimize performance and streamline communication between applications and hardware.
+- Employed Pytorch and OpenCV to construct the core architecture of the Yolo model for city traffic control, 
+capable of detecting 10,000 vehicles in real time 
+- Tuning the model by freezing layer and modifying hyperparameter to better fit local data and streamline runtime 
+for enhanced efficiency by 25%. 
+- Implemented various data augmentation techniques, including horizontal and vertical flips as well as resizing, to 
+improve training accuracy. 
+- Integrated CUDA to accelerate performance, optimizing communication between applications and hardware.
+
+### Teaching Assistant  
+**Drexel University**  
+*September 2023 - Present*  
+- Guided students in mastering programming languages such as C, Python, and UNIX systems, providing tailored 
+assistance to address individual challenges. 
+- Supported new students in implementing advanced programming tools and techniques, fostering a solid 
+foundation in practical and theoretical aspects of computer science.
+- Evaluated assignments and delivered constructive feedback to promote learning, improvement, and the 
+development of problem-solving skills.
 
 ## 💻 Projects
-### [Male Female Classification](https://github.com/Lamdtom/Male-Female-Classification)
+### [Gender Classification](https://github.com/Lamdtom/Gender-Classification)
 - Developed a ResNet model for image classification using over 15,000 images with Pytorch and OpenCV.
 - Enhanced data validation processes to improve training accuracy.
 - Analyzed model results to determine the best classifier for the dataset.
@@ -36,16 +52,10 @@ GPA: 3.92
 - Implemented an automated grading system, streamlining the grading process for professors.
 
 ## 🛠 Skills
-- **Languages:** Python | Java | HTML | CSS | JavaScript | C/C++
+- **Hard Skill:** AI | Machine Learning | Deep Learning | Computer Vision | Data Structure | Linux | Computer Architecture
+- **Program Languages:**  Python | Java | HTML | CSS | JavaScript | C/C++ | C# | Assembly  
 - **Frameworks:** Pytorch | Tensorflow | OpenCV | Jupyter Notebook | Numpy | SQL
-
-## 🌟 Leadership
-### Teaching Assistant  
-**Drexel University**  
-*September 2023 - Present*  
-- Assisting students with programming languages like C, Python, and UNIX systems.
-- Supporting new students in utilizing advanced programming tools.
-- Grading assignments and providing feedback to help students improve.
+- **Language:** Vietnamese | Spanish 
 
 ## 📫 Get in Touch
 - 📍 Philadelphia, PA
