@@ -30,15 +30,12 @@ for enhanced efficiency by 25%.
 improve training accuracy. 
 - Integrated CUDA to accelerate performance, optimizing communication between applications and hardware.
 
-### Teaching Assistant  
+### Research Assistant, Multimodal Deepfake Detection  
 **Drexel University**  
-*September 2023 - Present*  
-- Guided students in mastering programming languages such as C, Python, and UNIX systems, providing tailored 
-assistance to address individual challenges. 
-- Supported new students in implementing advanced programming tools and techniques, fostering a solid 
-foundation in practical and theoretical aspects of computer science.
-- Evaluated assignments and delivered constructive feedback to promote learning, improvement, and the 
-development of problem-solving skills.
+*March 2025 - Present*  
+- Designing a novel watermark-based framework to enhance multimodal DeepFake detection across image and video formats.
+- Developing imperceptible watermarking methods that improve generalization of detection models.
+- Implementing robust CNN-based architectures in PyTorch, integrating CUDA for real-time performance on benchmark datasets.
 
 ## 💻 Projects
 ### [Gender Classification](https://github.com/Lamdtom/Gender-Classification)
@@ -49,10 +46,10 @@ foundation in practical and theoretical aspects of computer science.
 - Evaluated assignments and delivered constructive feedback to promote learning, improvement, and the 
 development of problem-solving skills.
 
-### [Blueboard](https://github.com/jenphan/CS-375)
-- Collaborated on an online learning platform for students and professors, enhancing course management and interaction.
-- Designed an intuitive user interface with CSS and JavaScript for a smooth onboarding experience.
-- Implemented an automated grading system, streamlining the grading process for professors.
+### [DeepFake Dectection via Deep Learning](https://github.com/Lamdtom/DeepFake-Detection)
+- Developed a CNN-based classifier for DeepFake detection across 480 manipulated and real videos, reaching 91.3% accuracy.
+- Improved performance by extracting and selecting high-quality video frames, reducing data redundancy and improving signal quality.
+- Enhanced pipeline with face detection, normalization, and augmentation to increase robustness against varied conditions.
 
 ## 🛠 Skills
 - **Hard Skill:** AI | Machine Learning | Deep Learning | Computer Vision | Data Structure | Linux | Computer Architecture
