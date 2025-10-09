@@ -9,6 +9,14 @@ I'm a dedicated computer science student at Drexel University, pursuing a Bachel
 GPA: 3.92
 
 ## 💼 Experience
+### Research Assistant, Multimodal Deepfake Detection
+**ViLab – Drexel University – USA** 
+*March 2025 – October 2025*
+- Designed a novel watermark-based framework to enhance multimodal Deepfake detection across image and video
+formats
+- Developed imperceptible watermarking methods that improve 15% accuracy of detection LLM models
+- Implemented robust CNN-based architecture in PyTorch for real-time performance on benchmark datasets
+
 ### Computer Vision Engineer Intern  
 **Kulicke & Soffa**  
 *September 2023 – March 2024*  
@@ -52,10 +60,9 @@ development of problem-solving skills.
 - Enhanced pipeline with face detection, normalization, and augmentation to increase robustness against varied conditions.
 
 ## 🛠 Skills
-- **Hard Skill:** AI | Machine Learning | Deep Learning | Computer Vision | Data Structure | Linux | Computer Architecture
-- **Program Languages:**  Python | Java | HTML | CSS | JavaScript | C/C++ | C# | Assembly  
-- **Frameworks:** Pytorch | Tensorflow | OpenCV | Jupyter Notebook | Numpy | SQL
-- **Language:** Vietnamese | Spanish 
+- **Concept:** Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Model Deployment
+- **Program Languages:**  Python, C/C++, Java, HTML/CSS, JavaScript, C#, SQL
+- **Framework:** Pytorch, Tensorflow, OpenCV, Numpy, Git, AWS, Docker, Kubernetes
 
 ## 📫 Get in Touch
 - 📍 Philadelphia, PA
