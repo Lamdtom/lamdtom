@@ -11,7 +11,7 @@ GPA: 3.92
 ## 💼 Experience
 
 ### Research Assistant, Multimodal Deepfake Detection
-**ViLab – Drexel University – USA**
+**ViLab – Drexel University – USA**  
 *March 2025 – October 2025*  
 - Designed a novel watermark-based framework to enhance multimodal Deepfake detection across image and video
 formats
