@@ -41,15 +41,14 @@ improve training accuracy.
 
 
 ## 💻 Projects
-### [Gender Classification](https://github.com/Lamdtom/Gender-Classification)
-- Developed and optimized a ResNet model for image classification using over 15,000 diverse images, achieving an 
-accuracy rate of 92% and significantly enhancing the project's predictive capabilities.
-- Supported new students in implementing advanced programming tools and techniques, fostering a solid 
-foundation in practical and theoretical aspects of computer science. 
-- Evaluated assignments and delivered constructive feedback to promote learning, improvement, and the 
-development of problem-solving skills.
+### [Image Caption Sevice](https://github.com/Lamdtom/Image-Captioning-Service)  
+*Generative AI, Web Development, Cloud Deployment*  
+- Built a FastAPI backend and static frontend to generate image captions, containerized with Docker
+- Designed Kubernetes manifests with ingress and readiness probes, achieving 99% uptime in test deployments
+- Enhanced frontend with drag-and-drop uploads and progress bar, supporting 100+ concurrent caption requests
 
-### [DeepFake Dectection via Deep Learning](https://github.com/Lamdtom/DeepFake-Detection)
+### [DeepFake Dectection via Deep Learning](https://github.com/Lamdtom/DeepFake-Detection)  
+*Machine Learning, Computer Vision*  
 - Developed a CNN-based classifier for DeepFake detection across 480 manipulated and real videos, reaching 91.3% accuracy.
 - Improved performance by extracting and selecting high-quality video frames, reducing data redundancy and improving signal quality.
 - Enhanced pipeline with face detection, normalization, and augmentation to increase robustness against varied conditions.
