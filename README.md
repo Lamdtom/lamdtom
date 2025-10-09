@@ -9,9 +9,10 @@ I'm a dedicated computer science student at Drexel University, pursuing a Bachel
 GPA: 3.92
 
 ## 💼 Experience
+
 ### Research Assistant, Multimodal Deepfake Detection
-**ViLab – Drexel University – USA** 
-*March 2025 – October 2025*
+**ViLab – Drexel University – USA**
+*March 2025 – October 2025*  
 - Designed a novel watermark-based framework to enhance multimodal Deepfake detection across image and video
 formats
 - Developed imperceptible watermarking methods that improve 15% accuracy of detection LLM models
@@ -38,12 +39,6 @@ for enhanced efficiency by 25%.
 improve training accuracy. 
 - Integrated CUDA to accelerate performance, optimizing communication between applications and hardware.
 
-### Research Assistant, Multimodal Deepfake Detection  
-**Drexel University**  
-*March 2025 - Present*  
-- Designing a novel watermark-based framework to enhance multimodal DeepFake detection across image and video formats.
-- Developing imperceptible watermarking methods that improve generalization of detection models.
-- Implementing robust CNN-based architectures in PyTorch, integrating CUDA for real-time performance on benchmark datasets.
 
 ## 💻 Projects
 ### [Gender Classification](https://github.com/Lamdtom/Gender-Classification)
